@@ -21,8 +21,6 @@ int main ()
   else {
     cout << "The Greatest Number is :" << c <<"\n";
   }
-
-
   return 0;
 
 }
