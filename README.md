@@ -11,3 +11,4 @@ Every day Practics code and solved Question Code will be here
 | Day.2 | Variables & Data Types | 21 Apr 2024 |
 | Day.3 | Operators | 23 Apr 2024 |
 | Day.4 | Conditional statements | 25 Apr 2024 |
+| Day.5 | Loop| 25 Apr 2024 |
