@@ -15,3 +15,4 @@ Every day Practics code and solved Question Code will be here
 | Day.6 | Nested Loops , Patterns| 29 Apr 2024 |
 | Day.7 | Functions & Parameters| 1 May 2024 |
 | Day.8 | Binary Number System CS| 3 May 2024 |
+Exams opps cant do anything
