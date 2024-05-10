@@ -20,3 +20,5 @@ again
 again2
 next Exam OF OS
 done the os 
+10 may but i have exam of se on 13 cant do anything 
+
