@@ -25,3 +25,4 @@ i have to wait more
 next exam is of SE
 Next is OT
 Next and last exam is of MAths 
+last exam after the dev and dsa speed run will start again
