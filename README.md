@@ -15,14 +15,4 @@ Every day Practics code and solved Question Code will be here
 | Day.6 | Nested Loops , Patterns| 29 Apr 2024 |
 | Day.7 | Functions & Parameters| 1 May 2024 |
 | Day.8 | Binary Number System CS| 3 May 2024 |
-Exams opps cant do anything
-again 
-again2
-next Exam OF OS
-done the os 
-10 may but i have exam of se on 13 cant do anything 
-i have to wait more 
-next exam is of SE
-Next is OT
-Next and last exam is of MAths 
-last exam after the dev and dsa speed run will start again
+| + | Exams are Over Time For DSA SpeedRun | 17 May 2024 |
