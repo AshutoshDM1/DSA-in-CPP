@@ -17,3 +17,4 @@ Every day Practics code and solved Question Code will be here
 | Day.8 | Binary Number System CS| 3 May 2024 |
 | + | Exams are Over Time For DSA SpeedRun | 17 May 2024 |
 | Day.9 | Pointers in c++| 18 May 2024 |
+| Day.10 | Array 1 | 23 May 2024 |
