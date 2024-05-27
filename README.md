@@ -19,3 +19,4 @@ Every day Practics code and solved Question Code will be here
 | Day.9 | Pointers in c++| 18 May 2024 |
 | Day.10 | Array 1 | 23 May 2024 |
 | Day.11 | Array 2 | 26 May 2024 |
+| Day.12 | Sorting | 27 May 2024 |
