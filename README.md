@@ -23,3 +23,4 @@ Every day Practics code and solved Question Code will be here
 | Day.13 | 2D Arrays | 29 May 2024 |
 | Day.14 | Char Arrays & String | 25 June 2024 |
 | Day.15 | Vector Arrays | 1 July 2024 |
+| Day.16 | Bit Manipulation | 16 July 2024 |
