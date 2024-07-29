@@ -13,7 +13,7 @@ class Car {
 		this->color = color;
         mileage = new int;
         *mileage = 12;
-	    cout << "new Car Created\n";
+	    cout << "new Car object Created\n   ";
 	}
 	Car(Car &original) {
 		cout << "Copying...\n";
