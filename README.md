@@ -24,4 +24,5 @@ Every day Practics code and solved Question Code will be here
 | Day.14 | Char Arrays & String | 25 June 2024 |
 | Day.15 | Vector Arrays | 1 July 2024 |
 | Day.16 | Bit Manipulation | 16 July 2024 |
-| Day.17 | OOPs | 24 July 2024 |
+| Day.17 | OOPs Part-1 | 24 July 2024 |
+| Day.18 | OOPs Part-2 | 29 July 2024 |
