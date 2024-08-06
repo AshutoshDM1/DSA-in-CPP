@@ -8,7 +8,6 @@ void showPlus(int start, int end) {
     cout << "Count is: " << start << endl;
     showPlus(start + 1, end);  
 }
-
 void showMinus(int count) {
     if (count == 0) {
         return; // Base case
