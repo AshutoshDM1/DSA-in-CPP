@@ -27,4 +27,5 @@ Every day Practics code and solved Question Code will be here
 | Day.17 | OOPs Part-1 | 24 July 2024 |
 | Day.18 | OOPs Part-2 | 29 July 2024 |
 | Day.19 | Recursion Part-1 | 1 Aug 2024 |
-| Day.20 | Recursion Part-2| 8 Aug 2024 |
+| Day.20 | Recursion Part-2 | 8 Aug 2024 |
+| Day.21 | Divide & Conquer | 14 Aug 2024 |
