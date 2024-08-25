@@ -2,6 +2,10 @@
 #include<vector>
 using namespace std; 
 
+// Merge Sort
+// Time complexcity - O(nlogn)
+// space complexcity - O(n)
+
 void MergeFunction(vector<int> &arr, int si, int mid, int ei) {
     vector<int> temp;
     int i = si;
