@@ -29,3 +29,4 @@ Every day Practics code and solved Question Code will be here
 | Day.19 | Recursion Part-1 | 1 Aug 2024 |
 | Day.20 | Recursion Part-2 | 8 Aug 2024 |
 | Day.21 | Divide & Conquer | 14 Aug 2024 |
+| Day.22 | Time Complexity Part-1 | 31 Aug 2024 |
