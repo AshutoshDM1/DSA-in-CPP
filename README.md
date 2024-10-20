@@ -33,3 +33,4 @@ Every day Practics code and solved Question Code will be here
 | Day.23 | Time Complexity Part-2 | 5 Sept 2024 |
 | Day.24 | Backtracking | 18 Sept 2024 |
 | Day.25 | Linked List Part-1 | 20 Sept 2024 |
+| Day.26 | Linked List Part-2 | 25 Sept 2024 |
