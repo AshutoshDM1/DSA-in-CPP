@@ -35,3 +35,4 @@ Every day Practics code and solved Question Code will be here
 | Day.25 | Linked List Part-1 | 20 Sept 2024 |
 | Day.26 | Linked List Part-2 | 25 Sept 2024 |
 | Day.27 | Stack Part-1 | 26 Sept 2024 |
+| Day.28 | Stack Part-2 | 27 Sept 2024 |
