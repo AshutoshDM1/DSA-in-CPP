@@ -38,4 +38,4 @@ Every day Practics code and solved Question Code will be here
 | Day.28 | Stack Part-2 | 27 Sept 2024 |
 | Day.28 | Stack Part- 3| 27 Sept 2024 |
 | Day.28 | Stack Part- 4| 27 Sept 2024 |
-| Day.28 | Stack Part- 4| 27 Sept 2024 |
+| Day.28 | Stack Part- 4| 27 Sept 2024 |   
