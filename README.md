@@ -2,7 +2,7 @@
 ### I Am Learning it from 
 ## [Apna College DSA in C++ Batch](https://www.apnacollege.in/course/cpp-dsa)
 
-Every day Practics code and solved Question Code will be here 
+Every day Practics code and solved Question Code will be here    
 
 
 | Day | Content | Date |
