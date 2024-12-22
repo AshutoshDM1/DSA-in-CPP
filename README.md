@@ -1,5 +1,5 @@
-## My Repo For DSA In C++      
-### I Am Learning it from 
+## My Repo For DSA In C++
+### I Am Learning it from
 ## [Apna College DSA in C++ Batch](https://www.apnacollege.in/course/cpp-dsa)
 
 Every day Practics code and solved Question Code will be here    
@@ -33,5 +33,6 @@ Every day Practics code and solved Question Code will be here
 | Day.23 | Time Complexity Part-2 | 5 Sept 2024 |
 | Day.24 | Backtracking | 18 Sept 2024 |
 | Day.25 | Linked List Part-1 | 12 Nov 2024 |
-| Day.26 | Linked List Part-2 | 0 |
+
+Semester 5 Exam Prep Day 1
 
