@@ -49,13 +49,13 @@ Semester 5 Exam Prep Day 6
 Semester 5 Exam Prep Day 7
 <br>
 Semester 5 Exam Prep Day 8
-<br>
+<br>6
 Semester 5 Exam Prep Day 9
-<be>
-Semester 5 Exam day 1 
 <br>
 Semester 5 Exam Prep Day 10
 <br>
 Semester 5 Exam Prep Day 11
+<br>
+Semester 5 Exam Prep Day 12
 
 
